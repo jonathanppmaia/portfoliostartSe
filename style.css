@@ -294,6 +294,12 @@ nav ul li a {
   margin: 0 auto;
   margin-bottom: 10px;
 }
+#portfolio .project-img img{
+  transition: 0.5s ease transform;
+}
+#portfolio .project-item:hover .project-img img{
+  transform: scale(1.1);
+}
 
  /* Session  "About" */
 .about-item{
