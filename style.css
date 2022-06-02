@@ -501,6 +501,13 @@ footer{
 		font-weight: 700;
 		color: #fff;
 	}
+	/* contact */
+	.contact{
+
+		height: auto;
+		min-height: 50vh;
+		
+	}
 }
 
 @media screen and (max-width:415px) {
@@ -606,6 +613,12 @@ footer{
 	}
 
 	/* Sesão Contact */
+	.contact{
+
+  height: auto;
+	min-height: 50vh;
+	
+}
 	
 	.contact .fifth h1{
 		font-size: 7vw;
@@ -626,6 +639,11 @@ footer{
 		font-weight: 400;
 		background: transparent;
 		padding: 4px;
+	}
+
+	/* footer */
+	footer p{
+		font-size: 3vw;
 	}
 
 }	
