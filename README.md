@@ -2,11 +2,11 @@
 
 
 
-![](C:\Users\jonat\Documents\Startse\4º Semana\Live\Projeto\portfoliostartSe\image\startse-programacao.jpg)
+![](https://github.com/jonathanppmaia/portfoliostartSe/blob/main/image/startse-programacao.jpg?raw=true)
 
 
 
-​	O 1º Desafio do programação de Formação Tech Academy da StartSe. O desafio se baseia na primeira live coding realizado no dia 28.05.2022,  onde o Professo Gabriel coloca em pratica o conteúdo apresentado no módulos HTML e CSS.
+O 1º Desafio do programação de Formação Tech Academy da StartSe. O desafio se baseia na primeira live coding realizado no dia 28.05.2022,  onde o Professo Gabriel coloca em pratica o conteúdo apresentado no módulos HTML e CSS.
 
 ##### Objetivos do desafio:	
 
@@ -47,7 +47,7 @@ A tag **nav** usamos para **menus interativos**, como por exemplo menus que enca
 
 #### `<main>`
 
-A  tag**main ** é a tag onde colocamos o conteúdo principal da página. Para melhor uso, só devemos ter um `**<main>**` por página, onde iremos apontar o conteúdo de maior relevância, sendo textos, imagens, links, etc.
+A  tag **main ** é a tag onde colocamos o conteúdo principal da página. Para melhor uso, só devemos ter um `<main>` por página, onde iremos apontar o conteúdo de maior relevância, sendo textos, imagens, links, etc.
 
 Essa *tag* facilitou muito a compreensão para leitores de tela, já que **enfatiza o texto dentro da tag**, deixando clara sua importância.
 
