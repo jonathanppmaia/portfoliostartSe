@@ -43,7 +43,7 @@ A tag  **article**, como o próprio nome diz, é um artigo dentro do conteúdo. 
 
 #### `<nav>`
 
-A tag **nav** usamos para **menus interativos**, como por exemplo menus que encaminham a página de “*sobre*” ou “*produtos*”. O **nav** pode ser usado em qualquer momento na página, onde tenhamos **agrupamento de links**.
+A tag  **nav** usamos para **menus interativos**, como por exemplo menus que encaminham a página de “*sobre*” ou “*produtos*”. O **nav** pode ser usado em qualquer momento na página, onde tenhamos **agrupamento de links**.
 
 #### `<main>`
 
@@ -85,7 +85,7 @@ Normalmente utilizada para inserir a autoria da página, assim como contatos e d
 
 ![](https://github.com/jonathanppmaia/portfoliostartSe/blob/main/image/mockup01.jpg?raw=true)
 
-
+![](C:\Users\jonat\Documents\Startse\4º Semana\Live\Projeto\portfoliostartSe\image\mockup02.jpg)
 
 ![](https://github.com/jonathanppmaia/portfoliostartSe/blob/main/image/mockup02.jpg?raw=true)
 
@@ -101,4 +101,3 @@ Normalmente utilizada para inserir a autoria da página, assim como contatos e d
 
 
 
-# 
