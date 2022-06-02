@@ -85,11 +85,11 @@ Normalmente utilizada para inserir a autoria da página, assim como contatos e d
 
 ![](https://github.com/jonathanppmaia/portfoliostartSe/blob/main/image/mockup01.jpg?raw=true)
 
-![](C:\Users\jonat\Documents\Startse\4º Semana\Live\Projeto\portfoliostartSe\image\mockup02.jpg)
-
 ![](https://github.com/jonathanppmaia/portfoliostartSe/blob/main/image/mockup02.jpg?raw=true)
 
 ![](https://github.com/jonathanppmaia/portfoliostartSe/blob/main/image/mockup03.jpg?raw=true)
+
+![](https://github.com/jonathanppmaia/portfoliostartSe/blob/main/image/mockup04.jpg?raw=true)
 
 
 
