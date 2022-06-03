@@ -79,6 +79,8 @@ Normalmente utilizada para inserir a autoria da página, assim como contatos e d
 
 
 
+**DEPLOY DO PROJETO:** https://jonathanppmaia.github.io/portfoliostartSe/
+
 ### O PROJETO
 
 
