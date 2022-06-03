@@ -229,7 +229,6 @@ header .mobil-menu ul li a:hover {
   text-align: justify;
 }
 
-
 .presentation img{
   width: 60%;
 }
@@ -373,8 +372,6 @@ header .mobil-menu ul li a:hover {
   font-size: 6vw;
   margin-bottom: 30px;
 	text-align: center;
-	
-
 }
 
 .contact .fifth input,
@@ -407,7 +404,6 @@ header .mobil-menu ul li a:hover {
   padding: 10px;
 }
 
-
 /* footer */
 footer{
 	height: 80px;
@@ -417,9 +413,6 @@ footer{
 	padding: 30px;
 
 }
-
-
-
 
 @media screen and (max-width:768px) {
 	header .hamburger-menu {
@@ -435,10 +428,10 @@ footer{
 		display: block;
 	}
 
-	/* Apresentation */
+	* Apresentation */
 
 	.container{
-		min-height: 60vh;
+		min-height: 100vh;
 		height: 100%;
 		width: 100%;
 		display: flex;
@@ -503,6 +496,69 @@ footer{
 		color: #fff;
 	}
 
+	/* skills */
+	
+
+
+	/* about */
+
+	.container2{
+		height: 500px;
+		max-height: 100vh;
+		width: 100%;
+		display: flex;
+		flex-direction:column;
+		align-items: center;
+	}
+	
+	.presentation2 {
+		background-color:#000000;
+	}
+	
+	.container2 #texth2{
+		width: 100%;
+		height: 50%;
+		display: flex;
+		flex-direction: column;
+		justify-content: flex-start;
+	}
+	.container2 #texth2 div{
+		padding: 15%;
+	}
+	
+	.container2 #imgperfil2{
+		width: 100%;
+		display: flex;
+		flex-direction: row;
+		margin-left: auto;
+		margin-right: auto;
+		flex-wrap: wrap;
+	}
+	
+	.presentation2 h1{
+		display: block;
+		font-size: 15vw !important;
+		font-weight: 700;
+		color: #fff;
+		text-align: center;
+	}
+	
+	.presentation2 img{
+		width:100%;
+		padding: 10px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	
+	
+	.presentation2 h1{
+		display: block;
+		font-size: 8vw;
+		font-weight: 700;
+		color: #fff;
+	}
+
+	/
 	/* about 768 */
 	.container2 #imgperfil2 {
     width: 60%;
@@ -592,22 +648,9 @@ footer{
 		flex-direction:column;
 		
 	}
-	.container2 #texth2 {
-		width: 50%;
-		display: flex;
-		text-align: center;
-		align-items: center;
-	}
-
-	.container2 #texth2 div {
-		display: flex;
-		text-align: center;
-		align-items: center;
-	}
-
-
+	
 	.container2 #imgperfil2{
-		width: 60%;
+		width: 80%;
 		display: flex;
 		flex-direction: row;
 		justify-content: center;
@@ -616,8 +659,8 @@ footer{
 	}
 
 	.presentation2 img {
-		width: 22%;
-		padding: 10px;
+		width: 14%;
+		padding: 5px;
 	}
 
 	/* portfolio */
