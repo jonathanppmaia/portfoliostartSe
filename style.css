@@ -292,7 +292,7 @@ header .mobil-menu ul li a:hover {
 }
 
 .presentation2 img{
-  width: 10%;
+  width: 14%;
 	padding: 10px;
 	margin-left: auto;
 	margin-right: auto;
@@ -438,7 +438,8 @@ footer{
 	/* Apresentation */
 
 	.container{
-		min-height: 100vh;
+		min-height: 60vh;
+		height: 100%;
 		width: 100%;
 		display: flex;
 		flex-direction:row;
@@ -501,6 +502,24 @@ footer{
 		font-weight: 700;
 		color: #fff;
 	}
+
+	/* about 768 */
+	.container2 #imgperfil2 {
+    width: 60%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+	}
+	.presentation2 img {
+		width: 14%;
+		padding: 8px;
+		margin-left: auto;
+		margin-right: auto;
+}
+
+	
 	/* contact */
 	.contact{
 
