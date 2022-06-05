@@ -71,10 +71,10 @@ Normalmente utilizada para inserir a autoria da página, assim como contatos e d
 
 ### O PROJETO
 
-![](https://github.com/jonathanppmaia/portfoliostartSe/blob/main/image/mockup01.jpg?raw=true)
+![](https://raw.githubusercontent.com/jonathanppmaia/portfoliostartSe/main/image/mockup01.webp)
 
-![](https://githubusercontent.com/jonathanppmaia/portfoliostartSe/main/image/mockup02.webp)
+![](https://raw.githubusercontent.com/jonathanppmaia/portfoliostartSe/main/image/mockup02.webp)
 
-![](https://githubusercontent.com/jonathanppmaia/portfoliostartSe/main/image/mockup03.webp)
+![](https://raw.githubusercontent.com/jonathanppmaia/portfoliostartSe/main/image/mockup03.webp)
 
-![](https://githubusercontent.com/jonathanppmaia/portfoliostartSe/main/image/mockup04.webp)
+![](https://raw.githubusercontent.com/jonathanppmaia/portfoliostartSe/main/image/mockup04.webp)
